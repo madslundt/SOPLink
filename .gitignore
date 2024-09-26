@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+wiki/
+chroma/
+docstore
+root.pem
+reports/
+graph/graph.md
+sop_results/
